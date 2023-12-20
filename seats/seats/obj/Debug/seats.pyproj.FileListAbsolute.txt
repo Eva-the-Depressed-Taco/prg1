@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\bin\Debug\seats.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\bin\Debug\seats.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\bin\Debug\seats.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\obj\Debug\seats.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\obj\Debug\seats.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\obj\Debug\seats.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\seats\seats\obj\Debug\seats.exe

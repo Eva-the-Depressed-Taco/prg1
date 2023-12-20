@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "fav club", "fav club\fav club.rbproj", "{8A953368-81F2-4386-B63F-DE62FCFF4E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A953368-81F2-4386-B63F-DE62FCFF4E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A953368-81F2-4386-B63F-DE62FCFF4E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A953368-81F2-4386-B63F-DE62FCFF4E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A953368-81F2-4386-B63F-DE62FCFF4E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

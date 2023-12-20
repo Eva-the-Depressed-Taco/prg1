@@ -1,0 +1,3 @@
+C:\Users\white.e\Desktop\programin one\hello\obj\x86\Debug\hello.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Desktop\programin one\hello\obj\x86\Debug\hello.MainForm.resources
+C:\Users\white.e\Desktop\programin one\hello\obj\x86\Debug\hello.pyproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\bin\Debug\fatty.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\bin\Debug\fatty.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\bin\Debug\fatty.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\obj\Debug\fatty.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\obj\Debug\fatty.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\obj\Debug\fatty.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\fatty\fatty\obj\Debug\fatty.exe

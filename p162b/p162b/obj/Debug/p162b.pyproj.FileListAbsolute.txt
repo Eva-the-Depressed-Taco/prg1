@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\obj\Debug\p162b.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\obj\Debug\p162b.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\obj\Debug\p162b.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\bin\Debug\p162b.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\bin\Debug\p162b.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\bin\Debug\p162b.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\p162b\p162b\obj\Debug\p162b.exe

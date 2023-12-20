@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Softsales", "Softsales\Softsales.pyproj", "{BF04DB53-D74E-44E9-BB12-01E48C04860D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF04DB53-D74E-44E9-BB12-01E48C04860D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF04DB53-D74E-44E9-BB12-01E48C04860D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF04DB53-D74E-44E9-BB12-01E48C04860D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF04DB53-D74E-44E9-BB12-01E48C04860D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

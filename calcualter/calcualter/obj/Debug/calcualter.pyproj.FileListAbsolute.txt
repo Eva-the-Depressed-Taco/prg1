@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\obj\Debug\calcualter.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\obj\Debug\calcualter.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\obj\Debug\calcualter.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\bin\Debug\calcualter.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\bin\Debug\calcualter.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\bin\Debug\calcualter.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\calcualter\calcualter\obj\Debug\calcualter.exe

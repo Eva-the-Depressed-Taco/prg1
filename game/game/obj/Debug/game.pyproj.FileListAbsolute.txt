@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\bin\Debug\game.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\bin\Debug\game.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\bin\Debug\game.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\obj\Debug\game.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\obj\Debug\game.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\obj\Debug\game.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\game\game\obj\Debug\game.exe

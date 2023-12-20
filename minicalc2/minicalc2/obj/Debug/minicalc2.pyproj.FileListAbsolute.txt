@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\obj\Debug\minicalc2.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\obj\Debug\minicalc2.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\obj\Debug\minicalc2.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\bin\Debug\minicalc2.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\bin\Debug\minicalc2.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\bin\Debug\minicalc2.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\minicalc2\minicalc2\obj\Debug\minicalc2.exe

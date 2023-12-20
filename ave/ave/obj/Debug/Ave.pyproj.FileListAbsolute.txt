@@ -1,0 +1,10 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\Ave\Ave\bin\Debug\Ave.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\Ave\Ave\bin\Debug\Ave.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\Ave\Ave\bin\Debug\Ave.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\Ave\Ave\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\Ave\Ave\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\Ave\Ave\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\Ave\Ave\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\Ave\Ave\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\Ave\Ave\obj\Debug\Ave.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\Ave\Ave\obj\Debug\Ave.exe

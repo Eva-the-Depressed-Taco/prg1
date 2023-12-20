@@ -1,0 +1,3 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\square\square\obj\Debug\square.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\square\square\obj\Debug\square.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\square\square\obj\Debug\square.pyproj.GenerateResource.Cache

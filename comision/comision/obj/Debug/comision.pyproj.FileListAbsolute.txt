@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\obj\Debug\comision.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\obj\Debug\comision.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\obj\Debug\comision.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\bin\Debug\comision.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\bin\Debug\comision.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\bin\Debug\comision.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\comision\comision\obj\Debug\comision.exe

@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\bin\Debug\bongpong.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\bin\Debug\bongpong.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\bin\Debug\bongpong.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\obj\Debug\bongpong.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\obj\Debug\bongpong.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\obj\Debug\bongpong.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\bongpong\bongpong\obj\Debug\bongpong.exe

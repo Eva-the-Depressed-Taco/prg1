@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\bin\Debug\zap.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\bin\Debug\zap.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\bin\Debug\zap.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\obj\Debug\zap.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\obj\Debug\zap.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\obj\Debug\zap.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\zap\zap\obj\Debug\zap.exe

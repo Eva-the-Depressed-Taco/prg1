@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "payperoids", "payperoids\payperoids.pyproj", "{894D1E8C-2E69-40E7-9CB2-E0DEB7E6B15A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894D1E8C-2E69-40E7-9CB2-E0DEB7E6B15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894D1E8C-2E69-40E7-9CB2-E0DEB7E6B15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894D1E8C-2E69-40E7-9CB2-E0DEB7E6B15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894D1E8C-2E69-40E7-9CB2-E0DEB7E6B15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

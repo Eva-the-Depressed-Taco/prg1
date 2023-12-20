@@ -1,0 +1,10 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\race1\race1\obj\Debug\race1.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\race1\race1\bin\Debug\race1.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\race1\race1\bin\Debug\race1.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\race1\race1\bin\Debug\race1.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\race1\race1\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\race1\race1\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\race1\race1\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\race1\race1\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\race1\race1\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\race1\race1\obj\Debug\race1.exe

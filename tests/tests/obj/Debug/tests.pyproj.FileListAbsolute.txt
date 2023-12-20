@@ -1,0 +1,8 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\tests\tests\bin\Debug\tests.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\tests\tests\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\tests\tests\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\tests\tests\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\tests\tests\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\tests\tests\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\tests\tests\obj\Debug\tests.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\tests\tests\obj\Debug\tests.dll

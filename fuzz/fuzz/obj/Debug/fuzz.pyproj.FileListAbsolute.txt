@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\obj\Debug\fuzz.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\obj\Debug\fuzz.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\obj\Debug\fuzz.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\bin\Debug\fuzz.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\bin\Debug\fuzz.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\bin\Debug\fuzz.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\fuzz\fuzz\obj\Debug\fuzz.exe

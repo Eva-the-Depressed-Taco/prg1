@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "newnewslot", "newnewslot\newnewslot.pyproj", "{023684D9-D538-4B16-80D4-B3D7E32E6094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{023684D9-D538-4B16-80D4-B3D7E32E6094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023684D9-D538-4B16-80D4-B3D7E32E6094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023684D9-D538-4B16-80D4-B3D7E32E6094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023684D9-D538-4B16-80D4-B3D7E32E6094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

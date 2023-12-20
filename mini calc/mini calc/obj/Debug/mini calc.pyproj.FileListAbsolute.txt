@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\bin\Debug\mini calc.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\bin\Debug\mini calc.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\bin\Debug\mini calc.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\obj\Debug\mini calc.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\obj\Debug\mini_calc.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\obj\Debug\mini calc.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\mini calc\mini calc\obj\Debug\mini calc.exe

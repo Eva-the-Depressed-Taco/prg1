@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "buyonegetonefree", "buyonegetonefree\buyonegetonefree.rbproj", "{D5F54123-1B82-4423-AF4D-BAB054C0CE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5F54123-1B82-4423-AF4D-BAB054C0CE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F54123-1B82-4423-AF4D-BAB054C0CE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F54123-1B82-4423-AF4D-BAB054C0CE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F54123-1B82-4423-AF4D-BAB054C0CE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
