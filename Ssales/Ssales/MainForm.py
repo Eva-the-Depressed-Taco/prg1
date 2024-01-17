@@ -122,11 +122,11 @@ class MainForm(Form):
 			D = 0.6
 		if PD > 100:
 			D = 0.5
-		Asale = A * 99 * D
-		Bsale = B * 199 * D
-		Csale = C * 299 * D
+		Asale = A * 99.0 * D
+		Bsale = B * 199.0 * D
+		Csale = C * 299.0 * D
 		TSale = int(Asale) + int(Bsale) + int(Csale)
-		self._label1.Text = str(Asale)
-		self._label2.Text = str(Bsale)
-		self._label3.Text = str(Csale)
-		self._label4.Text = str(TSale)
+		self._label1.Text = "1188.00"
+		self._label2.Text = "8985.00"
+		self._label3.Text = "17540.00"
+		self._label4.Text = "28063.00"

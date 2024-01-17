@@ -10,3 +10,15 @@ C:\Users\white.e\Documents\SharpDevelop Projects\Ssales\Ssales\bin\Debug\Microso
 C:\Users\white.e\Documents\SharpDevelop Projects\Ssales\Ssales\bin\Debug\Microsoft.Scripting.dll
 C:\Users\white.e\Documents\SharpDevelop Projects\Ssales\Ssales\bin\Debug\Microsoft.Scripting.Metadata.dll
 C:\Users\white.e\Documents\SharpDevelop Projects\Ssales\Ssales\obj\Debug\Ssales.exe
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\bin\Debug\Ssales.exe.config
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\bin\Debug\Ssales.exe
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\bin\Debug\Ssales.dll
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\obj\Debug\Ssales.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\obj\Debug\Ssales.MainForm.resources
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\obj\Debug\Ssales.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\GitHub\prg1\Ssales\Ssales\obj\Debug\Ssales.exe

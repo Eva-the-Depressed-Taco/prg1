@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 # SharpDevelop 4.4
-Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "race1", "race1.pyproj", "{28783BAE-9098-492F-B400-8BEC91E5DF0F}"
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "race1", "race1\race1.pyproj", "{28783BAE-9098-492F-B400-8BEC91E5DF0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
